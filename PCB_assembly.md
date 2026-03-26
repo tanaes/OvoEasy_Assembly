@@ -19,10 +19,18 @@ To reduce costs, you may choose to order your OvoEasy boards with only SMD compo
 | J10 | Conn_01x03 | 1 | B3B-XH-A(LF)(SN) | C144394 | JST XH 3-pin vertical header, 2.5mm pitch | [Mouser](https://www.mouser.com/ProductDetail/JST-Commercial/B3B-XH-ALFSN) | [LCSC](https://www.lcsc.com/product-detail/C144394.html) |
 | J11, J12, J14 | Conn_01x02 | 3 | B2B-PH-K-S(LF)(SN) | C131337 | JST PH 2-pin vertical header, 2.0mm pitch | [Mouser](https://www.mouser.com/ProductDetail/JST-Commercial/B2B-PH-K-SLFSN) | [LCSC](https://www.lcsc.com/product-detail/C131337.html) |
 | SW2 | RotaryEncoder_Switch | 1 | EC12D1524403 | C112349 | Alps Alpine 15-pulse rotary encoder w/ push switch, TH | [Mouser](https://www.mouser.com/ProductDetail/Alps-Alpine/EC12D1524403) | [LCSC](https://www.lcsc.com/product-detail/C112349.html) |
+| U12 | - | 1 | W5500 | - | W5500 SPI Ethernet Module | [Amazon](https://a.co/d/0fikYfim) | [AliExpress (Affiliate)](https://s.click.aliexpress.com/e/_c4KeKiYH) |
+| U2 | Conn_01x14 | 1 | - | - | 14-pin female header | [Amazon](https://a.co/d/0guA8Rgo) | [AliExpress (Affiliate)](https://s.click.aliexpress.com/e/_c4S7itKz) |
+| U15 | Conn_01x02 | 2 | - | - | 2-pin female header | [Amazon](https://a.co/d/075tWc4C) | [AliExpress (Affiliate)](https://s.click.aliexpress.com/e/_c4S7itKz) |
+
+
+
 
 **Notes:**
 - J3 and J7 primary MPNs are not stocked on LCSC; alternative parts are noted parenthetically in the LCSC column.
-- The J7 mating plug (wire-side) is listed as a 
+- The J7 mating plug (wire-side) is listed as a separate row since it's a distinct part you'll need to order alongside the header.
+- The female pin headers (for U2 and U15) can be chopped down from common longer strips using flush cutters; there's no need to order them specifically to length.
+
 
 ## Assembly
 
