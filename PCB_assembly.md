@@ -26,7 +26,9 @@ To reduce costs, you may choose to order your OvoEasy boards with only SMD compo
 
 ## Assembly
 
-This is one recommended order to help you go through the assembly. Steps are grouped in parts of similar height spread across the board, which can help with the 'balance things on a flat surface' approach. Alternatively, you could make a printed jig for assembly of all components on a side at once. Make sure to use good soldering supplies and technique to ensure quality joints.
+This is one recommended order to help you go through the assembly. Steps are grouped in parts of similar height spread across the board, which can help with the 'balance things on a flat surface' approach. 
+
+Alternatively, you could make a printed jig for assembly of all components on a side at once. Printable soldering jigs are availabile in the [./Tools](./Tools) folder. To use a jig, load all the through-hole components for a side onto the board, then carefully place the jig upside-down over the board and components until it is fully seated. Then you can flip the jig and board over together and solder all the joints, and the jig will keep everything in place.
 
 If not using a jig, you may find it useful to add small dabs of hot glue to the plastic housings of some components to help them stay in place when flipping the board to solder the leads. If you do this, make sure not to obstruct the connector path with glue.
 
