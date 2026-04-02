@@ -42,7 +42,7 @@ If not using a jig, you may find it useful to add small dabs of hot glue to the 
 
 ### Step 1: Pin headers
 
-<img src='./Images/Step01_pinheaders.png' width=600>
+<img src='./Images/step01_pinheaders.png' width=600>
 
 Standard 2.54mm female pin headers are used to connect the LCD display and the water atomizer board. You can also optionally use a 9-pin header here -- the remaining 5 pins (for touch-screen functionality) are unused. 
 
@@ -50,7 +50,7 @@ The USB-C always-on atomizer boards can have headers in different orientations. 
 
 ### Step 2: DC in and JST-XH
 
-<img src='./Images/Step02_JST-DC.png' width=600>
+<img src='./Images/step02_JST-DC.png' width=600>
 
 Next, install the 3-pin JST-XH header for the water level sensor and the DC barrel jack. 
 
@@ -58,7 +58,7 @@ Make sure the JST header is installed so that the pins match your particular sen
 
 ### Step 3: remaining front-side components
 
-<img src='./Images/Step03_otherfront.png' width=600>
+<img src='./Images/step03_otherfront.png' width=600>
 
 Finally, install the remaining front-side components: the terminal block, the encoder, and (if using) the W5500 ethernet module. 
 
@@ -66,13 +66,13 @@ The encoder can be a little tough to push into its footprint, as it has stiff me
 
 ### Step 4: back-side JST-PH headers
 
-<img src='./Images/Step04_backJST.png' width=600>
+<img src='./Images/step04_backJST.png' width=600>
 
 Now, flip the board and install the JST-PH headers on the back side. There are three two-pin, two three-pin, two four-pin, and one six-pin headers.
 
 ### Step 5: remaining back-side components
 
-<img src='./Images/Step05_otherback.png' width=600>
+<img src='./Images/step05_otherback.png' width=600>
 
 Finally, install the 5mm pluggable terminal block connector for the fan/heater module, and the female 2.54mm header for the environmental sensor module. 
 
